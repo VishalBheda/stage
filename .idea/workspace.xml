@@ -14,17 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/js/vendor/jquery-1.12.4.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,11 +44,6 @@
             <path>
               <item name="aimzstage" type="b2602c69:ProjectViewProjectNode" />
               <item name="aimzstage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aimzstage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aimzstage" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -102,15 +87,25 @@
       <workItem from="1575752218662" duration="400000" />
       <workItem from="1576274437424" duration="3487000" />
       <workItem from="1576434842403" duration="2500000" />
-      <workItem from="1576514541648" duration="670000" />
+      <workItem from="1576514541648" duration="1358000" />
+      <workItem from="1576607415517" duration="1116000" />
+      <workItem from="1576687660239" duration="606000" />
+      <workItem from="1576772204454" duration="1233000" />
+      <workItem from="1576863280903" duration="598000" />
+      <workItem from="1576902131976" duration="599000" />
+      <workItem from="1577024149414" duration="710000" />
+      <workItem from="1577120515161" duration="624000" />
+      <workItem from="1577210470995" duration="1824000" />
+      <workItem from="1577267348377" duration="278000" />
+      <workItem from="1577512318260" duration="689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7057000" />
+    <option name="totallyTimeSpent" value="16022000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960877" />
@@ -141,8 +136,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/vendor/jquery-1.12.4.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
